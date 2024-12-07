@@ -1,5 +1,5 @@
 # GitHub username
-accountName = "Sonic853"
+accountName = "1012796366"
 # Name of follower file
 outputFileName = "followerList.md"
 # Name of unfollower and new follower file
@@ -22,3 +22,5 @@ avatarRecord = True
 # Set to 0 if you want it faster
 # Not sure if crawler would get blocked for crawling too fast
 crawlerSep = 0.5
+# Default raw README.md
+defaultREADME = "rawIntro/README.md"
