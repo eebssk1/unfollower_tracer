@@ -1,6 +1,5 @@
 | GitHub Account                                    | Avatar                                                                                                                 | Remark   |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
-| [melon5595](https://github.com/melon5595)         | <a href="https://github.com/melon5595"><img src="https://github.com/melon5595.png" width=75px height=75px></a>         |          |
 | [BlueMicro233](https://github.com/BlueMicro233)   | <a href="https://github.com/BlueMicro233"><img src="https://github.com/BlueMicro233.png" width=75px height=75px></a>   |          |
 | [Sonic853](https://github.com/Sonic853)           | <a href="https://github.com/Sonic853"><img src="https://github.com/Sonic853.png" width=75px height=75px></a>           |          |
 | [Cloudy-Kumori](https://github.com/Cloudy-Kumori) | <a href="https://github.com/Cloudy-Kumori"><img src="https://github.com/Cloudy-Kumori.png" width=75px height=75px></a> |          |
