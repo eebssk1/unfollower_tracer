@@ -8,12 +8,8 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 
 # BUG or Suggestion? || 仍有疑问，或另有建议？
 [Issue it here || 点这反馈](https://github.com/1012796366/unfollower_tracer/issues)
-# Statistic of 1012796366 || 1012796366 的数据
+# Statistic of eebssk1 || eebssk1 的数据
 ## Users who unfollowed you || 取关列表
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [melon5595](https://github.com/melon5595)     | <a href="https://github.com/melon5595"><img src="https://github.com/melon5595.png" width=75px height=75px></a>     |          |
-| [MonsterBa11](https://github.com/MonsterBa11) | <a href="https://github.com/MonsterBa11"><img src="https://github.com/MonsterBa11.png" width=75px height=75px></a> |          |
-
+Nothing here! || 啥也没有！
 ## Users who followed you yesterday || 昨日新增
 Nothing here! || 啥也木有！
