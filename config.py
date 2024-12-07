@@ -1,5 +1,5 @@
 # GitHub username
-accountName = "1012796366"
+accountName = "eebssk1"
 # Name of follower file
 outputFileName = "followerList.md"
 # Name of unfollower and new follower file
