@@ -15,6 +15,7 @@ def generateMarkdown():
         if unfollowFlag:
             with open(config.outputUnfollowerPath, "r", encoding="utf-8") as unfollowFile:
                 targetFile.write(unfollowFile.read())
+                targetFile.write("\n")
         else:
             targetFile.write("Nothing here! || 啥也没有！\n")
 
@@ -22,5 +23,6 @@ def generateMarkdown():
         if newFollowFlag:
             with open(config.outputNewFollowerPath, "r", encoding="utf-8") as newFollowerFile:
                 targetFile.write(newFollowerFile.read())
+                targetFile.write("\n")
         else:
             targetFile.write("Nothing here! || 啥也木有！\n")
