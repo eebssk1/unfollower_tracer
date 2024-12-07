@@ -10,7 +10,7 @@ def main():
     # get follower list (username)
     newFollowerList = getFollowerList(uid)
     if len(newFollowerList) == 0:
-        print("无法访问 GitHub 用户关注者列表")
+        print("Unable to access follower page.")
         exit(1)
 
     os.makedirs(config.outputRawPath, exist_ok=True)
