@@ -13,9 +13,8 @@ permissions:
 
 jobs:
   build:
-
+    if: ${{ !(github.repository == '1012796366/unfollower_tracer' && github.event_name == 'schedule') }}
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     - name: 'Python 环境构建'
