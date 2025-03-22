@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [VicTorWHoX](https://github.com/VicTorWHoX)                   | <a href="https://github.com/VicTorWHoX"><img src="https://github.com/VicTorWHoX.png" width=75px height=75px></a>                   |          |
 | [johnsonjh](https://github.com/johnsonjh)                     | <a href="https://github.com/johnsonjh"><img src="https://github.com/johnsonjh.png" width=75px height=75px></a>                     |          |
 | [robshee81](https://github.com/robshee81)                     | <a href="https://github.com/robshee81"><img src="https://github.com/robshee81.png" width=75px height=75px></a>                     |          |
 | [1012796366](https://github.com/1012796366)                   | <a href="https://github.com/1012796366"><img src="https://github.com/1012796366.png" width=75px height=75px></a>                   |          |
