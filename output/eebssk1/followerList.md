@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Maxxum69](https://github.com/Maxxum69)                       | <a href="https://github.com/Maxxum69"><img src="https://github.com/Maxxum69.png" width=75px height=75px></a>                       |          |
 | [boydfields](https://github.com/boydfields)                   | <a href="https://github.com/boydfields"><img src="https://github.com/boydfields.png" width=75px height=75px></a>                   |          |
 | [GabbaSauRuzZ](https://github.com/GabbaSauRuzZ)               | <a href="https://github.com/GabbaSauRuzZ"><img src="https://github.com/GabbaSauRuzZ.png" width=75px height=75px></a>               |          |
 | [johnsonjh](https://github.com/johnsonjh)                     | <a href="https://github.com/johnsonjh"><img src="https://github.com/johnsonjh.png" width=75px height=75px></a>                     |          |
