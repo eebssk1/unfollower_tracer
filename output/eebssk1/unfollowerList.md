@@ -1,4 +1,5 @@
 | GitHub Account                                | Avatar                                                                                                             | Remark   |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
+| [Maxxum69](https://github.com/Maxxum69)       | <a href="https://github.com/Maxxum69"><img src="https://github.com/Maxxum69.png" width=75px height=75px></a>       |          |
 | [VicTorWHoX](https://github.com/VicTorWHoX)   | <a href="https://github.com/VicTorWHoX"><img src="https://github.com/VicTorWHoX.png" width=75px height=75px></a>   |          |
 | [hauntmuskie](https://github.com/hauntmuskie) | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a> |          |
