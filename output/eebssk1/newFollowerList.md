@@ -1,3 +1,3 @@
-| GitHub Account                      | Avatar                                                                                                   | Remark   |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------|----------|
-| [lyphia](https://github.com/lyphia) | <a href="https://github.com/lyphia"><img src="https://github.com/lyphia.png" width=75px height=75px></a> |          |
+| GitHub Account                                      | Avatar                                                                                                                   | Remark   |
+|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------|
+| [sujitghongade2](https://github.com/sujitghongade2) | <a href="https://github.com/sujitghongade2"><img src="https://github.com/sujitghongade2.png" width=75px height=75px></a> |          |
