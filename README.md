@@ -12,6 +12,8 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 ## Users who unfollowed you || 取关列表
 | GitHub Account                                    | Avatar                                                                                                                 | Remark   |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
+| [helallao](https://github.com/helallao)           | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>           |          |
+| [seckinyasar](https://github.com/seckinyasar)     | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>     |          |
 | [xxspell](https://github.com/xxspell)             | <a href="https://github.com/xxspell"><img src="https://github.com/xxspell.png" width=75px height=75px></a>             |          |
 | [harry-osborn1](https://github.com/harry-osborn1) | <a href="https://github.com/harry-osborn1"><img src="https://github.com/harry-osborn1.png" width=75px height=75px></a> |          |
 | [Maxxum69](https://github.com/Maxxum69)           | <a href="https://github.com/Maxxum69"><img src="https://github.com/Maxxum69.png" width=75px height=75px></a>           |          |

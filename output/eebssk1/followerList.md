@@ -1,7 +1,5 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
-| [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
-| [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [stringermattingly](https://github.com/stringermattingly)     | <a href="https://github.com/stringermattingly"><img src="https://github.com/stringermattingly.png" width=75px height=75px></a>     |          |
 | [jkdawn](https://github.com/jkdawn)                           | <a href="https://github.com/jkdawn"><img src="https://github.com/jkdawn.png" width=75px height=75px></a>                           |          |
 | [sujitghongade2](https://github.com/sujitghongade2)           | <a href="https://github.com/sujitghongade2"><img src="https://github.com/sujitghongade2.png" width=75px height=75px></a>           |          |
