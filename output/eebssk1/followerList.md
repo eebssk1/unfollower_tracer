@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [frieren-mage](https://github.com/frieren-mage)               | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a>               |          |
 | [RomanK2311](https://github.com/RomanK2311)                   | <a href="https://github.com/RomanK2311"><img src="https://github.com/RomanK2311.png" width=75px height=75px></a>                   |          |
 | [stringermattingly](https://github.com/stringermattingly)     | <a href="https://github.com/stringermattingly"><img src="https://github.com/stringermattingly.png" width=75px height=75px></a>     |          |
 | [jkdawn](https://github.com/jkdawn)                           | <a href="https://github.com/jkdawn"><img src="https://github.com/jkdawn.png" width=75px height=75px></a>                           |          |

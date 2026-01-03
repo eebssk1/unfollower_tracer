@@ -1,3 +1,3 @@
-| GitHub Account                              | Avatar                                                                                                           | Remark   |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
-| [RomanK2311](https://github.com/RomanK2311) | <a href="https://github.com/RomanK2311"><img src="https://github.com/RomanK2311.png" width=75px height=75px></a> |          |
+| GitHub Account                                  | Avatar                                                                                                               | Remark   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
+| [frieren-mage](https://github.com/frieren-mage) | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a> |          |
