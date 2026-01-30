@@ -40,7 +40,7 @@
 | [greyblue9](https://github.com/greyblue9)                     | <a href="https://github.com/greyblue9"><img src="https://github.com/greyblue9.png" width=75px height=75px></a>                     |          |
 | [zverilius](https://github.com/zverilius)                     | <a href="https://github.com/zverilius"><img src="https://github.com/zverilius.png" width=75px height=75px></a>                     |          |
 | [muxuuu](https://github.com/muxuuu)                           | <a href="https://github.com/muxuuu"><img src="https://github.com/muxuuu.png" width=75px height=75px></a>                           |          |
-| [deepsea514](https://github.com/deepsea514)                   | <a href="https://github.com/deepsea514"><img src="https://github.com/deepsea514.png" width=75px height=75px></a>                   |          |
+| [minions514](https://github.com/minions514)                   | <a href="https://github.com/minions514"><img src="https://github.com/minions514.png" width=75px height=75px></a>                   |          |
 | [ym2008](https://github.com/ym2008)                           | <a href="https://github.com/ym2008"><img src="https://github.com/ym2008.png" width=75px height=75px></a>                           |          |
 | [chaoscalm](https://github.com/chaoscalm)                     | <a href="https://github.com/chaoscalm"><img src="https://github.com/chaoscalm.png" width=75px height=75px></a>                     |          |
 | [Rainbrony](https://github.com/Rainbrony)                     | <a href="https://github.com/Rainbrony"><img src="https://github.com/Rainbrony.png" width=75px height=75px></a>                     |          |
