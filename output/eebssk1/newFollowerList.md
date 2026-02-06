@@ -1,3 +1,3 @@
-| GitHub Account                              | Avatar                                                                                                           | Remark   |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
-| [minions514](https://github.com/minions514) | <a href="https://github.com/minions514"><img src="https://github.com/minions514.png" width=75px height=75px></a> |          |
+| GitHub Account                                            | Avatar                                                                                                                         | Remark   |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------|
+| [mogaami260-collab](https://github.com/mogaami260-collab) | <a href="https://github.com/mogaami260-collab"><img src="https://github.com/mogaami260-collab.png" width=75px height=75px></a> |          |

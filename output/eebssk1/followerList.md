@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [mogaami260-collab](https://github.com/mogaami260-collab)     | <a href="https://github.com/mogaami260-collab"><img src="https://github.com/mogaami260-collab.png" width=75px height=75px></a>     |          |
 | [emilycodestar](https://github.com/emilycodestar)             | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a>             |          |
 | [materialdark-ops](https://github.com/materialdark-ops)       | <a href="https://github.com/materialdark-ops"><img src="https://github.com/materialdark-ops.png" width=75px height=75px></a>       |          |
 | [RomanK2311](https://github.com/RomanK2311)                   | <a href="https://github.com/RomanK2311"><img src="https://github.com/RomanK2311.png" width=75px height=75px></a>                   |          |
