@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [hxreborn](https://github.com/hxreborn)                       | <a href="https://github.com/hxreborn"><img src="https://github.com/hxreborn.png" width=75px height=75px></a>                       |          |
 | [Neubulae](https://github.com/Neubulae)                       | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                       |          |
 | [aufarakha](https://github.com/aufarakha)                     | <a href="https://github.com/aufarakha"><img src="https://github.com/aufarakha.png" width=75px height=75px></a>                     |          |
