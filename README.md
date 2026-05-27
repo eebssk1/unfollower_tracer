@@ -23,7 +23,8 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 | [hauntmuskie](https://github.com/hauntmuskie)     | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>     |          |
 
 ## Users who followed you yesterday || 昨日新增
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [seckinyasar](https://github.com/seckinyasar) | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a> |          |
+| GitHub Account                                    | Avatar                                                                                                                 | Remark   |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
+| [sherwin-casem](https://github.com/sherwin-casem) | <a href="https://github.com/sherwin-casem"><img src="https://github.com/sherwin-casem.png" width=75px height=75px></a> |          |
+| [koichi-zawa](https://github.com/koichi-zawa)     | <a href="https://github.com/koichi-zawa"><img src="https://github.com/koichi-zawa.png" width=75px height=75px></a>     |          |
 

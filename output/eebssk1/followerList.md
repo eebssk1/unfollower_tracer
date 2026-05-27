@@ -1,5 +1,7 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [sherwin-casem](https://github.com/sherwin-casem)             | <a href="https://github.com/sherwin-casem"><img src="https://github.com/sherwin-casem.png" width=75px height=75px></a>             |          |
+| [koichi-zawa](https://github.com/koichi-zawa)                 | <a href="https://github.com/koichi-zawa"><img src="https://github.com/koichi-zawa.png" width=75px height=75px></a>                 |          |
 | [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [hxreborn](https://github.com/hxreborn)                       | <a href="https://github.com/hxreborn"><img src="https://github.com/hxreborn.png" width=75px height=75px></a>                       |          |
 | [Neubulae](https://github.com/Neubulae)                       | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                       |          |
