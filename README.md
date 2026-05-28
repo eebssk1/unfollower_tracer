@@ -12,6 +12,7 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 ## Users who unfollowed you || 取关列表
 | GitHub Account                                    | Avatar                                                                                                                 | Remark   |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
+| [seckinyasar](https://github.com/seckinyasar)     | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>     |          |
 | [deepsea514](https://github.com/deepsea514)       | <a href="https://github.com/deepsea514"><img src="https://github.com/deepsea514.png" width=75px height=75px></a>       |          |
 | [frieren-mage](https://github.com/frieren-mage)   | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a>   |          |
 | [helallao](https://github.com/helallao)           | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>           |          |
@@ -23,8 +24,7 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 | [hauntmuskie](https://github.com/hauntmuskie)     | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>     |          |
 
 ## Users who followed you yesterday || 昨日新增
-| GitHub Account                                    | Avatar                                                                                                                 | Remark   |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
-| [sherwin-casem](https://github.com/sherwin-casem) | <a href="https://github.com/sherwin-casem"><img src="https://github.com/sherwin-casem.png" width=75px height=75px></a> |          |
-| [koichi-zawa](https://github.com/koichi-zawa)     | <a href="https://github.com/koichi-zawa"><img src="https://github.com/koichi-zawa.png" width=75px height=75px></a>     |          |
+| GitHub Account                          | Avatar                                                                                                       | Remark   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
+| [helallao](https://github.com/helallao) | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a> |          |
 
