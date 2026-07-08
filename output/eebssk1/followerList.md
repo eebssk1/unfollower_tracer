@@ -7,7 +7,6 @@
 | [aufarakha](https://github.com/aufarakha)                     | <a href="https://github.com/aufarakha"><img src="https://github.com/aufarakha.png" width=75px height=75px></a>                     |          |
 | [LunarstarFurry](https://github.com/LunarstarFurry)           | <a href="https://github.com/LunarstarFurry"><img src="https://github.com/LunarstarFurry.png" width=75px height=75px></a>           |          |
 | [mogaami260-collab](https://github.com/mogaami260-collab)     | <a href="https://github.com/mogaami260-collab"><img src="https://github.com/mogaami260-collab.png" width=75px height=75px></a>     |          |
-| [emilycodestar](https://github.com/emilycodestar)             | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a>             |          |
 | [materialdark-ops](https://github.com/materialdark-ops)       | <a href="https://github.com/materialdark-ops"><img src="https://github.com/materialdark-ops.png" width=75px height=75px></a>       |          |
 | [RomanK2311](https://github.com/RomanK2311)                   | <a href="https://github.com/RomanK2311"><img src="https://github.com/RomanK2311.png" width=75px height=75px></a>                   |          |
 | [stringermattingly](https://github.com/stringermattingly)     | <a href="https://github.com/stringermattingly"><img src="https://github.com/stringermattingly.png" width=75px height=75px></a>     |          |
