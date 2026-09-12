@@ -12,6 +12,7 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 ## Users who unfollowed you || 取关列表
 | GitHub Account                                          | Avatar                                                                                                                       | Remark   |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
+| [rainseason1](https://github.com/rainseason1)           | <a href="https://github.com/rainseason1"><img src="https://github.com/rainseason1.png" width=75px height=75px></a>           |          |
 | [materialdark-ops](https://github.com/materialdark-ops) | <a href="https://github.com/materialdark-ops"><img src="https://github.com/materialdark-ops.png" width=75px height=75px></a> |          |
 | [xcontcom](https://github.com/xcontcom)                 | <a href="https://github.com/xcontcom"><img src="https://github.com/xcontcom.png" width=75px height=75px></a>                 |          |
 | [sherwin-casem](https://github.com/sherwin-casem)       | <a href="https://github.com/sherwin-casem"><img src="https://github.com/sherwin-casem.png" width=75px height=75px></a>       |          |
@@ -29,7 +30,7 @@ Wonder who unfollowed you on GitHub? GitHub unfollower tracer is a program that 
 | [hauntmuskie](https://github.com/hauntmuskie)           | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>           |          |
 
 ## Users who followed you yesterday || 昨日新增
-| GitHub Account                          | Avatar                                                                                                       | Remark   |
-|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
-| [xcontcom](https://github.com/xcontcom) | <a href="https://github.com/xcontcom"><img src="https://github.com/xcontcom.png" width=75px height=75px></a> |          |
+| GitHub Account                                | Avatar                                                                                                             | Remark   |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
+| [riverbreezy](https://github.com/riverbreezy) | <a href="https://github.com/riverbreezy"><img src="https://github.com/riverbreezy.png" width=75px height=75px></a> |          |
 
