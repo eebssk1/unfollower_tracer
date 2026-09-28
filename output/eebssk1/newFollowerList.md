@@ -1,3 +1,3 @@
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [riverbreezy](https://github.com/riverbreezy) | <a href="https://github.com/riverbreezy"><img src="https://github.com/riverbreezy.png" width=75px height=75px></a> |          |
+| GitHub Account                                          | Avatar                                                                                                                       | Remark   |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
+| [shinobi-coder701](https://github.com/shinobi-coder701) | <a href="https://github.com/shinobi-coder701"><img src="https://github.com/shinobi-coder701.png" width=75px height=75px></a> |          |
