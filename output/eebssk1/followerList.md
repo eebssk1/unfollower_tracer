@@ -1,6 +1,5 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
-| [coffsec](https://github.com/coffsec)                         | <a href="https://github.com/coffsec"><img src="https://github.com/coffsec.png" width=75px height=75px></a>                         |          |
 | [kaiserkernel](https://github.com/kaiserkernel)               | <a href="https://github.com/kaiserkernel"><img src="https://github.com/kaiserkernel.png" width=75px height=75px></a>               |          |
 | [andreyruvi](https://github.com/andreyruvi)                   | <a href="https://github.com/andreyruvi"><img src="https://github.com/andreyruvi.png" width=75px height=75px></a>                   |          |
 | [shinobi-coder701](https://github.com/shinobi-coder701)       | <a href="https://github.com/shinobi-coder701"><img src="https://github.com/shinobi-coder701.png" width=75px height=75px></a>       |          |
