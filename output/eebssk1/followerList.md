@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [standardgalactic](https://github.com/standardgalactic)       | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a>       |          |
 | [xiaohuangbo](https://github.com/xiaohuangbo)                 | <a href="https://github.com/xiaohuangbo"><img src="https://github.com/xiaohuangbo.png" width=75px height=75px></a>                 |          |
 | [0vm](https://github.com/0vm)                                 | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                                 |          |
 | [andreyruvi](https://github.com/andreyruvi)                   | <a href="https://github.com/andreyruvi"><img src="https://github.com/andreyruvi.png" width=75px height=75px></a>                   |          |

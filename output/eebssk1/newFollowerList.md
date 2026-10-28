@@ -1,3 +1,3 @@
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [xiaohuangbo](https://github.com/xiaohuangbo) | <a href="https://github.com/xiaohuangbo"><img src="https://github.com/xiaohuangbo.png" width=75px height=75px></a> |          |
+| GitHub Account                                          | Avatar                                                                                                                       | Remark   |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
+| [standardgalactic](https://github.com/standardgalactic) | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a> |          |
