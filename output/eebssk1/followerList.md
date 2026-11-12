@@ -1,7 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
 | [Git-FED](https://github.com/Git-FED)                         | <a href="https://github.com/Git-FED"><img src="https://github.com/Git-FED.png" width=75px height=75px></a>                         |          |
-| [buildlabs-io](https://github.com/buildlabs-io)               | <a href="https://github.com/buildlabs-io"><img src="https://github.com/buildlabs-io.png" width=75px height=75px></a>               |          |
 | [standardgalactic](https://github.com/standardgalactic)       | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a>       |          |
 | [xiaohuangbo](https://github.com/xiaohuangbo)                 | <a href="https://github.com/xiaohuangbo"><img src="https://github.com/xiaohuangbo.png" width=75px height=75px></a>                 |          |
 | [andreyruvi](https://github.com/andreyruvi)                   | <a href="https://github.com/andreyruvi"><img src="https://github.com/andreyruvi.png" width=75px height=75px></a>                   |          |
